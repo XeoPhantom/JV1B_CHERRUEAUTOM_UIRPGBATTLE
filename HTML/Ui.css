@@ -1,0 +1,13 @@
+body{
+    background-image: url("image/true.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display:flex; 
+    }
+table, th, td {
+    border: 2px solid rgba(84, 67, 236, 0.267);
+    /*background-color: rgb(50, 35, 192);*/
+    text-align: center;
+}
+
