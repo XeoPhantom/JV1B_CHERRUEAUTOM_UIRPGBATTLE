@@ -10,4 +10,61 @@ table, th, td {
     /*background-color: rgb(50, 35, 192);*/
     text-align: center;
 }
+#Lapintableau{
+  position: fixed;
+  top: 5%;
+  left: 20%;
+  bottom: 40%;
+  right: 100%;
+  width: 300px;
+  height: auto;
+  background-color: rgb(216, 164, 68);
+  border-style: solid;
 
+}
+#NTM{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  bottom: 30%;
+  right: 30%;
+  width: 300px;
+  height: auto;
+  background-color: rgb(50, 153, 148);
+  border-style: solid;
+}
+#hero{
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  bottom: 0;
+  right: 100;
+}
+#dps{
+  position: fixed;
+  top: 20%;
+  left: 88%;
+  bottom: 15%;
+  right: 10%;
+}
+#support{
+  position: fixed;
+  top: 10%;
+  left: 70%;
+  bottom: 50%;
+  right: 70%;
+}
+#Tank{
+  position: fixed;
+  top: 5%;
+  left: 60%;
+  bottom: 20%;
+  right: 10%;
+}
+#bunny{
+  position: fixed;
+  top: 35%;
+  left: 0px;
+  bottom: 60%;
+  right: 100%;
+}
