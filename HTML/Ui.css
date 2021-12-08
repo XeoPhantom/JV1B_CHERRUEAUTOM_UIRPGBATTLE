@@ -68,3 +68,8 @@ table, th, td {
   bottom: 60%;
   right: 100%;
 }
+AttaqueButton {
+  border: 2px solid rgba(84, 67, 236, 0.267);
+  /*background-color: rgb(50, 35, 192);*/
+  text-align: center;
+}
